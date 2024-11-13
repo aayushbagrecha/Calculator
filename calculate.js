@@ -19,7 +19,7 @@ function handleButtonClick(value) {
         currentCalculation += value;
     }
     updateDisplay();
-}
+} 
 
 function clearCalculation() {
     currentCalculation = '';
